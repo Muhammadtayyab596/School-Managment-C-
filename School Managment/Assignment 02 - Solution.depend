@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1596097062 source:c:\users\shaik\desktop\oop\source codes\assignment 02 - solution\course.cpp
+	<iostream>
+	"Course.h"
+	"Teacher.h"
+
+1596097048 c:\users\shaik\desktop\oop\source codes\assignment 02 - solution\course.h
+
+1596617900 c:\users\shaik\desktop\oop\source codes\assignment 02 - solution\person.h
+	<iostream>
+
+1596016884 c:\users\shaik\desktop\oop\source codes\assignment 02 - solution\teacher.h
+	"Person.h"
+	"Student.h"
+	"Course.h"
+
+1596096923 c:\users\shaik\desktop\oop\source codes\assignment 02 - solution\student.h
+	"Person.h"
+	"Course.h"
+
+1596017063 source:c:\users\shaik\desktop\oop\source codes\assignment 02 - solution\person.cpp
+	<iostream>
+	"Person.h"
+
+1596016954 source:c:\users\shaik\desktop\oop\source codes\assignment 02 - solution\student.cpp
+	<iostream>
+	"Student.h"
+
+1596016954 source:c:\users\shaik\desktop\oop\source codes\assignment 02 - solution\teacher.cpp
+	"Teacher.h"
+
+1596016977 source:c:\users\shaik\desktop\oop\source codes\assignment 02 - solution\main.cpp
+	<iostream>
+	"Student.h"
+	"Teacher.h"
+
+1596071862 source:c:\users\muhammad muneeb\desktop\assignment 02 - solution\course.cpp
+	<iostream>
+	"Course.h"
+	"Teacher.h"
+
+1596071848 c:\users\muhammad muneeb\desktop\assignment 02 - solution\course.h
+
+1595991684 c:\users\muhammad muneeb\desktop\assignment 02 - solution\teacher.h
+	"Person.h"
+	"Student.h"
+	"Course.h"
+
+1596592700 c:\users\muhammad muneeb\desktop\assignment 02 - solution\person.h
+	<iostream>
+
+1596071722 c:\users\muhammad muneeb\desktop\assignment 02 - solution\student.h
+	"Person.h"
+	"Course.h"
+
+1596596074 source:c:\users\muhammad muneeb\desktop\assignment 02 - solution\main.cpp
+	<iostream>
+	"Student.h"
+	"Teacher.h"
+
+1595991862 source:c:\users\muhammad muneeb\desktop\assignment 02 - solution\person.cpp
+	<iostream>
+	"Person.h"
+
+1595991754 source:c:\users\muhammad muneeb\desktop\assignment 02 - solution\student.cpp
+	<iostream>
+	"Student.h"
+
+1595991754 source:c:\users\muhammad muneeb\desktop\assignment 02 - solution\teacher.cpp
+	"Teacher.h"
+
+1596071862 source:c:\users\muhammad muneeb\desktop\asiigmnet 2nd semester\assignment 02 - solution\course.cpp
+	<iostream>
+	"Course.h"
+	"Teacher.h"
+
+1596071848 c:\users\muhammad muneeb\desktop\asiigmnet 2nd semester\assignment 02 - solution\course.h
+
+1595991684 c:\users\muhammad muneeb\desktop\asiigmnet 2nd semester\assignment 02 - solution\teacher.h
+	"Person.h"
+	"Student.h"
+	"Course.h"
+
+1596592700 c:\users\muhammad muneeb\desktop\asiigmnet 2nd semester\assignment 02 - solution\person.h
+	<iostream>
+
+1596071722 c:\users\muhammad muneeb\desktop\asiigmnet 2nd semester\assignment 02 - solution\student.h
+	"Person.h"
+	"Course.h"
+
+1596596074 source:c:\users\muhammad muneeb\desktop\asiigmnet 2nd semester\assignment 02 - solution\main.cpp
+	<iostream>
+	"Student.h"
+	"Teacher.h"
+
+1595991862 source:c:\users\muhammad muneeb\desktop\asiigmnet 2nd semester\assignment 02 - solution\person.cpp
+	<iostream>
+	"Person.h"
+
+1595991754 source:c:\users\muhammad muneeb\desktop\asiigmnet 2nd semester\assignment 02 - solution\student.cpp
+	<iostream>
+	"Student.h"
+
+1595991754 source:c:\users\muhammad muneeb\desktop\asiigmnet 2nd semester\assignment 02 - solution\teacher.cpp
+	"Teacher.h"
+
